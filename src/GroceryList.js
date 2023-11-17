@@ -53,7 +53,7 @@ export class GroceryList extends Component{
             <form onSubmit={this.onSubmitForm}>
 
                <div className="pictureBox">
-                <img className="tomato" src={tomatoes} width="200px" />
+                <img className="tomato" src={tomatoes} alt="tomatoes" width="200px" />
                 </div>
 
                <div className="center">
@@ -79,7 +79,7 @@ export class GroceryList extends Component{
                <ul>
                 {this.state.groceryList.map((item, index) => (
                   <li onClick={this.crossedWord} key="index">
-                    <img className="tick" src={mark} width="20px"/>{item}
+                    <img className="tick" src={mark} alt="tick" width="20px"/>{item}
                     </li>
                 )
                 )}

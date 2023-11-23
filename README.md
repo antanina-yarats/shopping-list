@@ -1,6 +1,6 @@
 # React Shopping List App
 
-[![Project Screenshot](https://cdn.glitch.global/f64eba08-4587-486f-a46a-709f73355016/Screenshot%20.png?v=1700749141582)]
+![Project Screenshot](https://cdn.glitch.global/f64eba08-4587-486f-a46a-709f73355016/Screenshot%20.png?v=1700749141582)
 
 
 Welcome to the React Shopping List App! This simple and visually appealing app allows you to create, manage, and track your shopping list effortlessly.

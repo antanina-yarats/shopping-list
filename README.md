@@ -1,6 +1,6 @@
 # React Shopping List App
 
-![Project Screenshot](Screenshot.png "Project Screenshot")
+![Project Screenshot](Screenshot .png "Project Screenshot")
 
 Welcome to the React Shopping List App! This simple and visually appealing app allows you to create, manage, and track your shopping list effortlessly.
 

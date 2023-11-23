@@ -7,7 +7,7 @@ body{
 .wrapper{
   display: flex;
   justify-content: center;
-  width: 100vw;
+  width: 100%;
   height: auto;
   margin: 20px;
   
@@ -50,6 +50,7 @@ input{
   background-color: #DAE2B6;
   border-radius: 5px;
   font-family: 'Montserrat', sans-serif;
+  margin-bottom: 10px;
 }
 
 .btn{
@@ -105,6 +106,31 @@ li{
 }
 
 
+@media all and (max-width: 430px) {
+
+  .wrapper{
+    width: 90vw;
+  }
+
+  .green{
+    width: 100vw;
+  }
+}
+
+@media all and (max-width: 390px) {
+
+  .wrapper{
+    width: 90vw;
+  }
+
+  .green{
+    width: 100vw;
+  }
+}
+
+
+
+
 @media all and (max-width: 280px) {
 
   .wrapper{
@@ -112,6 +138,6 @@ li{
   }
 
   .green{
-    width: 100vw;
+    width: 80vw;
   }
 }
